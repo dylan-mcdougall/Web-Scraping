@@ -1,4 +1,4 @@
-Documentation
+# Documentation
 
 I had a lot of fun working on this project, while the tone of this file will be more casual than actual documentation, I'll still provide the structure of the project, as well as detail the primary functionality and thought process behind the key files!
 
